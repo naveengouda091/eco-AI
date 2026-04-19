@@ -1,0 +1,43 @@
+[
+  {
+    "username": "surabhiraichur576@gmail.com",
+    "password": "7777",
+    "accountType": "personal",
+    "orgName": "",
+    "xp": 0,
+    "streak": 0,
+    "last_active": "",
+    "badges": [],
+    "total_carbon_saved": 0.0
+  },
+  {
+    "username": "reetuparabat761@gmail.com",
+    "password": "asdfgh",
+    "xp": 300,
+    "streak": 1,
+    "last_active": "2026-04-19",
+    "badges": [
+      "top_3",
+      "calculator",
+      "carbon_saver",
+      "eco_hero"
+    ],
+    "total_carbon_saved": 52.636,
+    "accountType": "personal",
+    "orgName": ""
+  },
+  {
+    "username": "klsvdit@gmail.com",
+    "password": "klsvdit",
+    "xp": 20,
+    "streak": 1,
+    "last_active": "2026-04-11",
+    "badges": [
+      "calculator",
+      "top_3"
+    ],
+    "total_carbon_saved": 3.026,
+    "accountType": "organisation",
+    "orgName": "KLS-VDIT"
+  }
+]
